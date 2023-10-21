@@ -10,4 +10,5 @@
 
 🎯 Let's connect if you're seeking a dedicated professional who can seamlessly navigate between front-end and back-end development, ensuring top-notch performance and user experiences.
 
-✉️ Feel free to reach out to me at afzalimdad9@gmail.com. I'm open to exciting opportunities, collaborations, or simply engaging in conversations about all things tech! LinkedIn: https://www.linkedin.com/in/afzal-imdad-7a6527261/
+✉️ Feel free to reach out to me at afzalimdad9@gmail.com. I'm open to exciting opportunities, collaborations, or simply engaging in conversations about all things tech! LinkedIn: 
+[https://www.linkedin.com/in/afzalimdad9/](https://www.linkedin.com/in/afzalimdad9/)
