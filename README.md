@@ -4,7 +4,7 @@ I'm a Web Developer with experience in MERN, React and PHP (Laravel) technologie
 
 ## ⚡️💥🔥 Status 
 [comment]: <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfzalAli231&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&rank_icon=github&theme=synthwave)>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zayn365&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalAli231&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Skills
@@ -27,10 +27,6 @@ I'm a Web Developer with experience in MERN, React and PHP (Laravel) technologie
 - ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-## 📚 Education
-
-- Bachelor's Degree in Computer Science from Virtual University Of Pakistan.
 
 ## 💻 Projects
 
