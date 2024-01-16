@@ -4,7 +4,7 @@ I'm a Web Developer with experience in MERN, React and PHP (Laravel) technologie
 
 ## ⚡️💥🔥 Status 
 [comment]: <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfzalAli231&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&rank_icon=github&theme=synthwave)>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Afzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfzalAli231)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalAli231&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
