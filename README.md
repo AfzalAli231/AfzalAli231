@@ -14,8 +14,9 @@ I'm a Web Developer with experience in MERN, React and PHP (Laravel) technologie
   
 <p style="display: flex; aligh-items:center;flex-direction:column;justify-content:center;">
   <img src="https://github-profile-trophy.vercel.app/?username=AfzalAli231&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="" />
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=AfzalAli231&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
   <img src="https://raw.githubusercontent.com/sammorozov/sammorozov/59c7c8b7a883ad54a27102250b44ede726c50740/assets/github-snake.svg" />
+  <img src="https://komarev.com/ghpvc/?username=AfzalAli231&style=for-the-badge&color=orange" alt=""/>
 </p>
 
 
