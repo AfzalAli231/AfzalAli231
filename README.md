@@ -9,6 +9,18 @@ I'm a Web Developer with experience in MERN, React and PHP (Laravel) technologie
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalAli231&layout=compact&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
+---
+
+  
+<p style="display: flex; aligh-items:center;flex-direction:column;justify-content:center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=AfzalAli231&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="" />
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img src="https://raw.githubusercontent.com/sammorozov/sammorozov/59c7c8b7a883ad54a27102250b44ede726c50740/assets/github-snake.svg" />
+</p>
+
+
+---
+
 ## 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,rust,aftereffects,androidstudio,angular,azure,babel,blender,bootstrap,c,css,cloudflare,discord,django,docker,dotnet,dynamodb,redux,react,express,supabase,firebase.figma,flutter,golang,gatsby,git,github,gitlab,gmail,html,jquery,graphql,illustrator,photoshop,instagram,java,js,laravel,linkedin,linux,mui,mongodb,mysql,nextjs,nest,netlify,nginx,nodejs,prisma,php,postgresql,postman,powershell,premiere,python,rxjs,ruby,redis,sqlite,svg,sass,selenium,stackoverflow,svelte,tailwind,twitter,typescript,webpack,vscode,vercel,vite,vue,webflow,wordpress)](https://aiportfolio.tech)
 <div style="display: flex; gap: 16px; align-items: center; justify-content: center;">
