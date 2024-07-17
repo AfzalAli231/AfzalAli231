@@ -23,7 +23,7 @@ I'm a Web Developer with experience in MERN, React and PHP (Laravel) technologie
 ---
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,rust,aftereffects,androidstudio,angular,azure,babel,blender,bootstrap,c,css,cloudflare,discord,django,docker,dotnet,dynamodb,redux,react,express,supabase,firebase.figma,flutter,golang,gatsby,git,github,gitlab,gmail,html,jquery,graphql,illustrator,photoshop,instagram,java,js,laravel,linkedin,linux,mui,mongodb,mysql,nextjs,nest,netlify,nginx,nodejs,prisma,php,postgresql,postman,powershell,premiere,python,rxjs,ruby,redis,sqlite,svg,sass,selenium,stackoverflow,svelte,tailwind,twitter,typescript,webpack,vscode,vercel,vite,vue,webflow,wordpress)](https://aiportfolio.tech)
+[![My Skills](https://skillicons.dev/icons?i=aws,rust,aftereffects,androidstudio,angular,azure,babel,blender,bootstrap,c,css,cloudflare,discord,django,docker,dotnet,dynamodb,redux,react,express,supabase,firebase,figma,flutter,golang,gatsby,git,github,gitlab,gmail,html,jquery,graphql,illustrator,photoshop,instagram,java,js,laravel,linkedin,linux,mui,mongodb,mysql,nextjs,nest,netlify,nginx,nodejs,prisma,php,postgresql,postman,powershell,premiere,python,rxjs,ruby,redis,sqlite,svg,sass,selenium,stackoverflow,svelte,tailwind,twitter,typescript,webpack,vscode,vercel,vite,vue,webflow,wordpress)](https://aiportfolio.tech)
 <div style="display: flex; gap: 16px; align-items: center; justify-content: center;">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
